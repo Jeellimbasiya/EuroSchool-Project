@@ -1,0 +1,21 @@
+img{
+    width:20%;
+}
+
+body{
+    text-align: center;
+    margin-top: 90px;
+    background-color: yellowgreen;
+}
+
+div{
+  background-color: lightskyblue;
+  width: 600px;
+  height: 70vh;
+  margin: auto;
+  border: 5px tomato;
+  border-radius: 30px 30px 30px 30px;
+}
+p{
+    text-decoration: none;
+}
